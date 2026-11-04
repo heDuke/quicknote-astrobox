@@ -1,0 +1,167 @@
+{
+  "item": {
+    "id": "com.experiment.quicknote.wm3",
+    "restype": "quick_app",
+    "name": "QuickNote",
+    "description": "QuickNote 是一款面向部分小米 Vela 穿戴设备的轻量级笔记快应用，采用 Wear Material 设计风格，支持多种输入方式、笔记分类与个性化设置，让日常记录更加便捷。\n\n⚠️ 注意事项\n\n- 部分动画效果可能增加设备性能开销，实际流畅度与功耗表现因设备而异。\n- 不同设备的功能支持与显示效果可能存在差异，请以实际适配情况为准。\n- 本应用为独立开发的第三方项目，并非小米或 Google 官方产品，也未获得其官方认证。\n\n🔗 项目地址\nhttps://github.com/heDuke/vela-quicknote-wm3\n\n（介绍内容由 AI 辅助生成）",
+    "preview": [
+      "media/01.png",
+      "media/02.png",
+      "media/03.png",
+      "media/04.png",
+      "media/05.png",
+      "media/06.png",
+      "media/07.png"
+    ],
+    "icon": "media/3939.png",
+    "cover": "media/astrobox_cover_3x2.png",
+    "author": [
+      {
+        "name": "alliealfao",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "源仓库",
+      "url": "https://github.com/heDuke/vela-quicknote-wm3",
+      "icon": "GithubLogo"
+    }
+  ],
+  "downloads": {
+    "xmws3": {
+      "version": "1.0.0",
+      "file_name": "downloads/qn-round-release.rpk",
+      "versionCode": 3,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "QuickNote v1.0.0 · 首次发布 🎉\n\n✨ 主要功能\n\n- 支持快速创建、查看和管理临时记事。\n- 提供停车位置、取件码、储物柜等常用记事分类。\n- 支持快捷短语、多种输入方式及有效期设置。\n- 支持到期清理与删除撤销。\n- 提供个性化设置，优化日常使用体验。\n\n🎨 界面与适配\n\n- 采用 Material 3 Expressive 设计风格。\n- 针对圆形、方形及胶囊形屏幕优化界面布局。\n- 适配 Xiaomi Watch S3 / S4 及部分小米手环设备。\n- 根据设备特性提供不同的输入交互方式。\n\n⚠️ 性能与兼容性说明\n\n部分界面动画可能增加渲染负载，在性能较低的设备上可能出现掉帧、响应延迟或额外耗电。实际表现因设备型号、系统版本及运行环境而异。\n\n🔗 项目开源地址\n\nhttps://github.com/heDuke/vela-quicknote-wm3"
+        }
+      ]
+    },
+    "xmws4": {
+      "version": "1.0.0",
+      "file_name": "downloads/qn-round-release.rpk",
+      "versionCode": 3,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "QuickNote v1.0.0 · 首次发布 🎉\n\n✨ 主要功能\n\n- 支持快速创建、查看和管理临时记事。\n- 提供停车位置、取件码、储物柜等常用记事分类。\n- 支持快捷短语、多种输入方式及有效期设置。\n- 支持到期清理与删除撤销。\n- 提供个性化设置，优化日常使用体验。\n\n🎨 界面与适配\n\n- 采用 Material 3 Expressive 设计风格。\n- 针对圆形、方形及胶囊形屏幕优化界面布局。\n- 适配 Xiaomi Watch S3 / S4 及部分小米手环设备。\n- 根据设备特性提供不同的输入交互方式。\n\n⚠️ 性能与兼容性说明\n\n部分界面动画可能增加渲染负载，在性能较低的设备上可能出现掉帧、响应延迟或额外耗电。实际表现因设备型号、系统版本及运行环境而异。\n\n🔗 项目开源地址\n\nhttps://github.com/heDuke/vela-quicknote-wm3"
+        }
+      ]
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/qn-band10-release.rpk",
+      "versionCode": 3,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "QuickNote v1.0.0 · 首次发布 🎉\n\n✨ 主要功能\n\n- 支持快速创建、查看和管理临时记事。\n- 提供停车位置、取件码、储物柜等常用记事分类。\n- 支持快捷短语、多种输入方式及有效期设置。\n- 支持到期清理与删除撤销。\n- 提供个性化设置，优化日常使用体验。\n\n🎨 界面与适配\n\n- 采用 Material 3 Expressive 设计风格。\n- 针对圆形、方形及胶囊形屏幕优化界面布局。\n- 适配 Xiaomi Watch S3 / S4 及部分小米手环设备。\n- 根据设备特性提供不同的输入交互方式。\n\n⚠️ 性能与兼容性说明\n\n部分界面动画可能增加渲染负载，在性能较低的设备上可能出现掉帧、响应延迟或额外耗电。实际表现因设备型号、系统版本及运行环境而异。\n\n🔗 项目开源地址\n\nhttps://github.com/heDuke/vela-quicknote-wm3"
+        }
+      ]
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/qn-band10-release.rpk",
+      "versionCode": 3,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "QuickNote v1.0.0 · 首次发布 🎉\n\n✨ 主要功能\n\n- 支持快速创建、查看和管理临时记事。\n- 提供停车位置、取件码、储物柜等常用记事分类。\n- 支持快捷短语、多种输入方式及有效期设置。\n- 支持到期清理与删除撤销。\n- 提供个性化设置，优化日常使用体验。\n\n🎨 界面与适配\n\n- 采用 Material 3 Expressive 设计风格。\n- 针对圆形、方形及胶囊形屏幕优化界面布局。\n- 适配 Xiaomi Watch S3 / S4 及部分小米手环设备。\n- 根据设备特性提供不同的输入交互方式。\n\n⚠️ 性能与兼容性说明\n\n部分界面动画可能增加渲染负载，在性能较低的设备上可能出现掉帧、响应延迟或额外耗电。实际表现因设备型号、系统版本及运行环境而异。\n\n🔗 项目开源地址\n\nhttps://github.com/heDuke/vela-quicknote-wm3"
+        }
+      ]
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/qn-band10-release.rpk",
+      "versionCode": 3,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "QuickNote v1.0.0 · 首次发布 🎉\n\n✨ 主要功能\n\n- 支持快速创建、查看和管理临时记事。\n- 提供停车位置、取件码、储物柜等常用记事分类。\n- 支持快捷短语、多种输入方式及有效期设置。\n- 支持到期清理与删除撤销。\n- 提供个性化设置，优化日常使用体验。\n\n🎨 界面与适配\n\n- 采用 Material 3 Expressive 设计风格。\n- 针对圆形、方形及胶囊形屏幕优化界面布局。\n- 适配 Xiaomi Watch S3 / S4 及部分小米手环设备。\n- 根据设备特性提供不同的输入交互方式。\n\n⚠️ 性能与兼容性说明\n\n部分界面动画可能增加渲染负载，在性能较低的设备上可能出现掉帧、响应延迟或额外耗电。实际表现因设备型号、系统版本及运行环境而异。\n\n🔗 项目开源地址\n\nhttps://github.com/heDuke/vela-quicknote-wm3"
+        }
+      ]
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/qn-round-release.rpk",
+      "versionCode": 3,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "QuickNote v1.0.0 · 首次发布 🎉\n\n✨ 主要功能\n\n- 支持快速创建、查看和管理临时记事。\n- 提供停车位置、取件码、储物柜等常用记事分类。\n- 支持快捷短语、多种输入方式及有效期设置。\n- 支持到期清理与删除撤销。\n- 提供个性化设置，优化日常使用体验。\n\n🎨 界面与适配\n\n- 采用 Material 3 Expressive 设计风格。\n- 针对圆形、方形及胶囊形屏幕优化界面布局。\n- 适配 Xiaomi Watch S3 / S4 及部分小米手环设备。\n- 根据设备特性提供不同的输入交互方式。\n\n⚠️ 性能与兼容性说明\n\n部分界面动画可能增加渲染负载，在性能较低的设备上可能出现掉帧、响应延迟或额外耗电。实际表现因设备型号、系统版本及运行环境而异。\n\n🔗 项目开源地址\n\nhttps://github.com/heDuke/vela-quicknote-wm3"
+        }
+      ]
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/qn-band9-release.rpk",
+      "versionCode": 3,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "QuickNote v1.0.0 · 首次发布 🎉\n\n✨ 主要功能\n\n- 支持快速创建、查看和管理临时记事。\n- 提供停车位置、取件码、储物柜等常用记事分类。\n- 支持快捷短语、多种输入方式及有效期设置。\n- 支持到期清理与删除撤销。\n- 提供个性化设置，优化日常使用体验。\n\n🎨 界面与适配\n\n- 采用 Material 3 Expressive 设计风格。\n- 针对圆形、方形及胶囊形屏幕优化界面布局。\n- 适配 Xiaomi Watch S3 / S4 及部分小米手环设备。\n- 根据设备特性提供不同的输入交互方式。\n\n⚠️ 性能与兼容性说明\n\n部分界面动画可能增加渲染负载，在性能较低的设备上可能出现掉帧、响应延迟或额外耗电。实际表现因设备型号、系统版本及运行环境而异。\n\n🔗 项目开源地址\n\nhttps://github.com/heDuke/vela-quicknote-wm3"
+        }
+      ]
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/qn-band9-release.rpk",
+      "versionCode": 3,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "QuickNote v1.0.0 · 首次发布 🎉\n\n✨ 主要功能\n\n- 支持快速创建、查看和管理临时记事。\n- 提供停车位置、取件码、储物柜等常用记事分类。\n- 支持快捷短语、多种输入方式及有效期设置。\n- 支持到期清理与删除撤销。\n- 提供个性化设置，优化日常使用体验。\n\n🎨 界面与适配\n\n- 采用 Material 3 Expressive 设计风格。\n- 针对圆形、方形及胶囊形屏幕优化界面布局。\n- 适配 Xiaomi Watch S3 / S4 及部分小米手环设备。\n- 根据设备特性提供不同的输入交互方式。\n\n⚠️ 性能与兼容性说明\n\n部分界面动画可能增加渲染负载，在性能较低的设备上可能出现掉帧、响应延迟或额外耗电。实际表现因设备型号、系统版本及运行环境而异。\n\n🔗 项目开源地址\n\nhttps://github.com/heDuke/vela-quicknote-wm3"
+        }
+      ]
+    },
+    "xmws4xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/qn-round-release.rpk",
+      "versionCode": 3,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "QuickNote v1.0.0 · 首次发布 🎉\n\n✨ 主要功能\n\n- 支持快速创建、查看和管理临时记事。\n- 提供停车位置、取件码、储物柜等常用记事分类。\n- 支持快捷短语、多种输入方式及有效期设置。\n- 支持到期清理与删除撤销。\n- 提供个性化设置，优化日常使用体验。\n\n🎨 界面与适配\n\n- 采用 Material 3 Expressive 设计风格。\n- 针对圆形、方形及胶囊形屏幕优化界面布局。\n- 适配 Xiaomi Watch S3 / S4 及部分小米手环设备。\n- 根据设备特性提供不同的输入交互方式。\n\n⚠️ 性能与兼容性说明\n\n部分界面动画可能增加渲染负载，在性能较低的设备上可能出现掉帧、响应延迟或额外耗电。实际表现因设备型号、系统版本及运行环境而异。\n\n🔗 项目开源地址\n\nhttps://github.com/heDuke/vela-quicknote-wm3"
+        }
+      ]
+    },
+    "xmws441": {
+      "version": "1.0.0",
+      "file_name": "downloads/qn-round-release.rpk",
+      "versionCode": 3,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "QuickNote v1.0.0 · 首次发布 🎉\n\n✨ 主要功能\n\n- 支持快速创建、查看和管理临时记事。\n- 提供停车位置、取件码、储物柜等常用记事分类。\n- 支持快捷短语、多种输入方式及有效期设置。\n- 支持到期清理与删除撤销。\n- 提供个性化设置，优化日常使用体验。\n\n🎨 界面与适配\n\n- 采用 Material 3 Expressive 设计风格。\n- 针对圆形、方形及胶囊形屏幕优化界面布局。\n- 适配 Xiaomi Watch S3 / S4 及部分小米手环设备。\n- 根据设备特性提供不同的输入交互方式。\n\n⚠️ 性能与兼容性说明\n\n部分界面动画可能增加渲染负载，在性能较低的设备上可能出现掉帧、响应延迟或额外耗电。实际表现因设备型号、系统版本及运行环境而异。\n\n🔗 项目开源地址\n\nhttps://github.com/heDuke/vela-quicknote-wm3"
+        }
+      ]
+    },
+    "xmws541": {
+      "version": "1.0.0",
+      "file_name": "downloads/qn-round-release.rpk",
+      "versionCode": 3,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "QuickNote v1.0.0 · 首次发布 🎉\n\n✨ 主要功能\n\n- 支持快速创建、查看和管理临时记事。\n- 提供停车位置、取件码、储物柜等常用记事分类。\n- 支持快捷短语、多种输入方式及有效期设置。\n- 支持到期清理与删除撤销。\n- 提供个性化设置，优化日常使用体验。\n\n🎨 界面与适配\n\n- 采用 Material 3 Expressive 设计风格。\n- 针对圆形、方形及胶囊形屏幕优化界面布局。\n- 适配 Xiaomi Watch S3 / S4 及部分小米手环设备。\n- 根据设备特性提供不同的输入交互方式。\n\n⚠️ 性能与兼容性说明\n\n部分界面动画可能增加渲染负载，在性能较低的设备上可能出现掉帧、响应延迟或额外耗电。实际表现因设备型号、系统版本及运行环境而异。\n\n🔗 项目开源地址\n\nhttps://github.com/heDuke/vela-quicknote-wm3"
+        }
+      ]
+    },
+    "xmws5": {
+      "version": "1.0.0",
+      "file_name": "downloads/qn-round-release.rpk",
+      "versionCode": 3,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "QuickNote v1.0.0 · 首次发布 🎉\n\n✨ 主要功能\n\n- 支持快速创建、查看和管理临时记事。\n- 提供停车位置、取件码、储物柜等常用记事分类。\n- 支持快捷短语、多种输入方式及有效期设置。\n- 支持到期清理与删除撤销。\n- 提供个性化设置，优化日常使用体验。\n\n🎨 界面与适配\n\n- 采用 Material 3 Expressive 设计风格。\n- 针对圆形、方形及胶囊形屏幕优化界面布局。\n- 适配 Xiaomi Watch S3 / S4 及部分小米手环设备。\n- 根据设备特性提供不同的输入交互方式。\n\n⚠️ 性能与兼容性说明\n\n部分界面动画可能增加渲染负载，在性能较低的设备上可能出现掉帧、响应延迟或额外耗电。实际表现因设备型号、系统版本及运行环境而异。\n\n🔗 项目开源地址\n\nhttps://github.com/heDuke/vela-quicknote-wm3"
+        }
+      ]
+    }
+  },
+  "ext": {}
+}
