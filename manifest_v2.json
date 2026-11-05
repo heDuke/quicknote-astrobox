@@ -1,9 +1,9 @@
 {
   "item": {
-    "id": "com.experiment.quicknote.wm3",
+    "id": "com.heduke.quicknote",
     "restype": "quick_app",
     "name": "QuickNote",
-    "description": "QuickNote 是一款面向部分小米 Vela 穿戴设备的轻量级笔记快应用，采用 Wear Material 设计风格，支持多种输入方式、笔记分类与个性化设置，让日常记录更加便捷。\n\n⚠️ 注意事项\n\n- 部分动画效果可能增加设备性能开销，实际流畅度与功耗表现因设备而异。\n- 不同设备的功能支持与显示效果可能存在差异，请以实际适配情况为准。\n- 本应用为独立开发的第三方项目，并非小米或 Google 官方产品，也未获得其官方认证。\n\n🔗 项目地址\nhttps://github.com/heDuke/vela-quicknote-wm3\n\n（介绍内容由 AI 辅助生成）",
+    "description": "QuickNote 是一款面向部分小米 Vela 穿戴设备的轻量级笔记快应用，采用 Wear Material 设计风格，支持多种输入方式、笔记分类与个性化设置，让日常记录更加便捷。\n\n⚠️ 注意事项\n\n- 部分动画效果可能增加设备性能开销，实际流畅度与功耗表现因设备而异。\n- 不同设备的功能支持与显示效果可能存在差异，请以实际适配情况为准。\n- 本应用为独立开发的第三方项目，并非小米或 Google 官方产品，也未获得其官方认证。\n\n（介绍内容由 AI 辅助生成）",
     "preview": [
       "media/01.png",
       "media/02.png",
@@ -14,7 +14,7 @@
       "media/07.png"
     ],
     "icon": "media/3939.png",
-    "cover": "media/astrobox_cover_3x2.png",
+    "cover": "media/3998.png",
     "author": [
       {
         "name": "alliealfao",
